@@ -28,5 +28,5 @@ npm install react-led-display
 ## Example
 
 ```javascript
- <ReactLEDDisplayTest displayValue="1" width="18" ledSize="1" foregroundCol="lime" backgroundCol="darkgreen" skew="-6"/>
+ <ReactLEDDisplay displayValue="1" width="18" ledSize="1" foregroundCol="lime" backgroundCol="darkgreen" skew="-6"/>
  ```
