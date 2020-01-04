@@ -22,7 +22,7 @@ npm install react-led-display
     ledSize="2"         /* thickness of each led in pixels */
     foregroundCol="lightgreen"  /* Active LED color */    
     backgroundCol="darkgreen"/> /* Inactive LED color */
-    skew=-7 /* Skew panel*/
+    skew="-7" /* Skew panel*/
 ```
 
 ## Example
